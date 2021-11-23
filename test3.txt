@@ -1,4 +1,6 @@
 sub test()
-
+dim i as integer
+for i = 1 to 5
+  print("hello_world!")
 end sub
 
